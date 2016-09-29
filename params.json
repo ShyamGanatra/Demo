@@ -1,0 +1,6 @@
+{
+  "name": "Demo",
+  "tagline": "this is first project",
+  "body": "# hi this is my first github site\r\n## hello\r\n### is it good\r\n\r\n[follow me on](google.com)\r\n\r\n![google doodle](https://www.google.co.in/logos/doodles/2016/ladislao-jose-biros-117th-birthday-5067428201496576-scta.png)\r\n\r\n**This text is Bold**\r\n_This one is Italics_\r\n``\r\n\r\n* 123\r\n* 456\r\n* 78911. \r\n1. abc\r\n1. def\r\n1. ghi\r\n\r\n> HI this is a quote\r\n\r\n\r\n***\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
